@@ -1,0 +1,484 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+.center{
+	margin: 0 auto;
+}
+
+.center1{
+	position: static;
+
+  
+    width:200px;
+	margin-top: 20px;
+    margin-left: 520px;
+    margin-right: auto;
+    background-color: #009bd7;
+}
+
+.top-right-side{
+	padding-top: 20px;
+	text-align: right;
+}
+
+.log-btn{
+	margin-right: 40px;
+	background-color: #2abdb7;
+	padding: 4px 18px;
+	border: 1px solid #2abdb7;
+	font-size: 12px;
+	border-radius: 1px;
+
+}
+
+.log-btn:hover{
+	background-color: #ff3939;
+	border-color: #ff3939;
+	-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+}
+
+.phn-no{
+	margin-right: 20px;
+	color: #fe4505;
+	font-size: 18px;
+	/*font-weight: bold;*/
+
+}
+
+.top-logo{
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	padding: 12px;
+	box-shadow: 1px 3px 2px #333;
+	color:black;
+}
+.fa-facebook:hover{
+	background-color: #3b5998;
+	-webkit-transition-duration: 0.4s;
+	-moz-transition-duration: 0.4s;
+	-o-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+	color:white;
+}
+.fa-twitter:hover{
+	background-color: #1da1f2;
+	-webkit-transition-duration: 0.4s;
+	-moz-transition-duration: 0.4s;
+	-o-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+.fa-linkedin:hover{
+	background-color: #0077b5;
+	-webkit-transition-duration: 0.4s;
+	-moz-transition-duration: 0.4s;
+	-o-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+
+
+.banner-img{
+	background: url(../images/top-bg.png) no-repeat top;
+}
+.bg-content-position{
+	padding-top: 160px;
+	padding-bottom: 70px;
+}
+.bg-content-border{
+	border: 1px solid #fff;
+	padding: 7px;
+}
+.bg-inner-content{
+	background-color: rgb(255, 255, 255);
+	text-align: center;
+	padding: 20px;
+	opacity: 0.8;
+	color:#bae2f2;
+}
+.Find-Out-How-btn{
+	background-color: #009bd7;
+	width:200px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.customer-service{
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+.customer{
+	font-weight: 300;
+
+}
+
+.thin-font{
+	font-weight: 300;
+}
+
+.text-width{
+	width: 270px;
+	margin: 0 auto;
+}
+
+.sale{
+	background-color:#eee; 
+	padding-top: 35px;
+	padding-bottom: 35px;
+
+}
+.sale-para{
+	width:58%;
+	margin:0 auto;
+}
+
+.digital-rewards{ 
+	padding-top: 35px;
+	padding-bottom: 35px;
+
+}
+.digi-para{
+	width:64%;
+	margin:0 auto;
+}
+
+.email-service{
+	background-color: #bae2f2;
+	padding-top: 35px;
+	padding-bottom: 35px;
+
+}
+
+.email-right-side{
+	padding-top: 140px;
+	text-align: center;
+	width:70%;
+}
+
+
+.email-ul{
+	
+	padding-top: 60px;
+	
+	
+
+}
+
+.slow-day{
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+.slow-service{
+	color: #ff4848;
+	padding-top: 70px;
+}
+
+.slow-para{
+	width: 59%;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 20px;
+}
+
+.slow-para-down{
+	width: 62%;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 20px;
+}
+
+.slow-para-color{
+	color:#46c7d2;
+}
+
+.dashboard{
+	padding-top: 35px;
+	padding-bottom: 35px;
+	background-color:#eee;
+}
+
+.dashboard-service{
+
+	line-height: 100%;
+	width: 86%;
+
+}
+
+.dashboard-para{
+	width: 72%;
+	text-align: center;
+	/*margin: 0 auto;*/
+	font-size: 16px;
+}
+
+.dashboard-para-down{
+	width: 70%;
+	text-align: center;
+	/*margin: 0 auto;*/
+	font-size: 16px;
+	color:#ff4848;
+}
+
+.marketing{
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+.measurementh{
+	padding-bottom: 30px;
+}
+
+.full-name{
+  
+   margin-right: -60px;
+   width:150px;
+   margin-left: 5px;
+   font-size: 18px;
+   margin-top: 10px;
+
+  
+  
+}
+
+.business-name{
+  
+   margin-right: -82px;
+   width:210px;
+   margin-left: -33px;
+   font-size: 18px;
+   margin-top: 10px;
+
+  
+  
+}
+
+.email-address{
+  
+   margin-right: -80px;
+   width:200px;
+
+   font-size: 18px;
+  margin-top: 10px;
+
+  
+  
+}
+
+.phone{
+  
+   margin-right: -118px;
+   width:190px;
+   margin-left: 50px;
+   font-size: 18px;
+   margin-top: 10px;
+
+  
+  
+}
+
+
+.measurementt{
+	
+	background-color:#eee;
+	width: 340px;
+	height: 50px;
+	border: 1px solid #eee;
+	margin-bottom: 15px;
+	margin-right: 50px;
+	
+}
+
+.measurementtt{
+	
+	background-color:#eee;
+	width: 340px;
+	height: 50px;
+	border: 1px solid #eee;
+	margin-bottom: 15px;
+	margin-right: -50px;
+	
+}
+
+
+.world{
+	background-color: #46c7d2;
+	padding-top: 35px;
+	height: 1050px;
+
+	
+	
+}
+
+.world-logo{
+margin-bottom: 30px;
+}
+
+.world-head{
+	color:#ffffff;
+	margin-bottom: 50px;
+}
+
+
+
+
+.small-video{
+	padding-top: 75px;
+	padding-bottom: 35px;
+}
+.option{
+	padding-top: 35px;
+	padding-bottom: 35px;
+	background-color: #eee;
+}
+.get-btn{
+	margin-left: 1000px;
+	color:#ffffff;
+
+}
+
+.spring-big{
+	padding-top: 35px;
+	padding-bottom: 35px;
+
+}
+
+.last{
+	padding-top: 35px;
+	padding-bottom: 35px;
+	background-color: black;
+}
+
+.last-down{
+	padding-top: 35px;
+	padding-bottom: 35px;
+	background-color: #333130;
+	color: #ffffff;
+}
+
+.last-para{
+	color:#ffffff;
+
+}
+
+.last-para-down{
+	
+	word-spacing: 7px;
+	padding-bottom: 10px;
+
+}
+
+.last-para-down-2{
+	
+	
+	padding-top: 20px;
+
+}
+
+
+
+.jkl{
+	text-align: center;
+	list-style: none;
+
+
+}
+
+.icond{
+	height: 25px;
+	width: 35px;
+	padding: 5px;
+	background-color:#eee; 
+	text-align: center;
+	margin-right: -5px; 
+	
+	
+	color:black;
+}
+
+.bg-content-position1{
+	padding-top: 70px;
+	padding-bottom: 70px;
+
+
+}
+.bg-content-border1{
+	
+	background-color: rgb(255, 255, 255);
+	padding: 15px;
+	height:520px;
+}
+.bg-inner-content1{
+	height:490px;
+	border: 1px solid #eee;
+	background-color: rgb(255, 255, 255);
+	text-align: center;
+	padding: 10px;
+	opacity: 1.0;
+	color:#000;
+
+}
+.option-head{
+	
+	background-color: #46c7d2;
+	
+	
+	height: 101px;
+	border-radius: 50%;
+	padding: 12px;
+	width:115px;
+	margin:0 auto;
+	color:#fff;
+
+}
+.op-p
+{
+	font-size: 12px;
+}
+
+.s-h{
+	color:red;
+}
+
+.center12{
+	position: static;
+
+  
+    width:300px;
+	margin-top: -20px;
+    margin-left: 420px;
+    margin-right: auto;
+    background-color: #009bd7;
+}
+
+.border{
+	padding-bottom: 5px;
+	border-bottom:1px dashed #eee;
+}
+
+
+
+
+@media screen and (max-width: 480px){
+	.logo{
+		margin: 0 auto;
+	}
+	.top-right-side{
+		text-align: center;
+
+
+	}
+}
+
+@media screen(min-width: 480px) and (max-width: 768px){
+	.logo{
+		margin: 0 auto;
+	}
+	.top-right-side{
+		text-align: center;
+		
+	}
+}
